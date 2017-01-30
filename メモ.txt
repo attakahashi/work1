@@ -1,0 +1,9 @@
+・curlの使い方
+・ローカルでTomcatを起動してswagger (http://localhost:8080/swagger-ui.html)につなぎ、POST, GET, PUT, DELETEを実行する。
+	curl で実行する場合のコマンドも表記される。
+・アノテーションを使ってトランザクション管理を簡単にコードに書く。
+・Springにおけるエラーstatus（400, 403など）の扱い方
+	CRUDはWebが広まる前から考え方としてあった。
+
+abcdefg
+hhhhhhhhhhhhhhhhhhhhhhh
